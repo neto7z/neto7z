@@ -33,6 +33,10 @@ Meu foco está em compreender como a lei responde a incidentes de segurança, pr
 - **Introdução ao Hacking e Pentest** — [Solyd Offensive Security](https://solyd.com.br/verificar/RpwzzbpO5r/) · 7h · 2020
 - **Cyber Security Foundation Professional Certificate (CSFPC)** — CertiProf · obtida em 2020 · credencial expirada em 2022
 
+## `./profiles`
+
+- [Hack The Box — Ecaloths](https://profile.hackthebox.com/profile/01a02bc8-bef7-7352-9fdc-650dfc445f0c)
+
 ## `./manifest`
 
 ```text
