@@ -6,26 +6,26 @@
 
 <div align="center">
 
-`DIREITO DIGITAL` · `SEGURANÇA DA INFORMAÇÃO` · `PRIVACIDADE` · `CYBER LAW`
+`DIREITO DIGITAL` · `SEGURANÇA OFENSIVA` · `DIREITO AMBIENTAL`
 
 </div>
 
-## Sobre
+## `./whoami`
 
-Estudo a relação entre **Direito e tecnologia**, com atenção especial aos conflitos, riscos e responsabilidades que surgem no ambiente digital.
+Estudo a relação entre **Direito, tecnologia e proteção ambiental**, com atenção especial aos conflitos, riscos e responsabilidades que surgem no ambiente digital.
 
-Meu foco está em compreender como a lei responde a incidentes de segurança, proteção de dados, provas digitais e novas formas de violação de direitos.
+Meu foco está em compreender como a lei responde a incidentes de segurança, proteção de dados, provas digitais e danos ambientais.
 
-## Áreas de interesse
+## `./focus`
 
 - Direito Digital e crimes cibernéticos
-- Segurança da informação
+- Segurança ofensiva em ambientes autorizados
 - Privacidade e proteção de dados
 - Provas e investigações digitais
-- Responsabilidade civil no ambiente digital
+- Direito Ambiental e responsabilidade por danos ambientais
 - Governança, riscos e conformidade
 
-## Princípios
+## `./manifest`
 
 ```text
 LEGALIDADE  → toda atuação precisa de fundamento
@@ -33,14 +33,15 @@ SEGURANÇA   → prevenir é melhor do que remediar
 PRIVACIDADE → dados exigem contexto, cuidado e finalidade
 EVIDÊNCIA   → conclusões precisam ser demonstráveis
 ÉTICA       → capacidade técnica não substitui responsabilidade
+AMBIENTE    → proteção ambiental também exige tecnologia e evidência
 ```
 
-## Em construção
+## `./building`
 
-Este perfil reunirá estudos, ferramentas e projetos autorais sobre **Direito e Segurança Digital**, sempre com documentação, escopo legítimo e preocupação com o uso responsável da tecnologia.
+Este perfil reunirá estudos, ferramentas e projetos autorais sobre **Direito Digital, Segurança Ofensiva e Direito Ambiental**, sempre com documentação, autorização, escopo legítimo e responsabilidade.
 
 <div align="center">
 
-### Direito para compreender. Segurança para proteger.
+### Direito para compreender. Segurança para proteger. Evidência para demonstrar.
 
 </div>
