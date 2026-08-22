@@ -1,38 +1,46 @@
-# Olá, eu sou Neto
+<div align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Neto — Direito e Segurança Digital" />
+</div>
 
-Construo soluções digitais na interseção entre **Direito, software, automação e inteligência artificial**.
+<br />
 
-Meu foco é transformar problemas reais em ferramentas claras, úteis e verificáveis — da ideia inicial à aplicação funcionando.
+<div align="center">
+
+`DIREITO DIGITAL` · `SEGURANÇA DA INFORMAÇÃO` · `PRIVACIDADE` · `CYBER LAW`
+
+</div>
+
+## Sobre
+
+Estudo a relação entre **Direito e tecnologia**, com atenção especial aos conflitos, riscos e responsabilidades que surgem no ambiente digital.
+
+Meu foco está em compreender como a lei responde a incidentes de segurança, proteção de dados, provas digitais e novas formas de violação de direitos.
 
 ## Áreas de interesse
 
-- Legal tech e acesso à informação jurídica
-- Aplicações web e produtos digitais
-- Automação de processos e fluxos de trabalho
-- Inteligência artificial aplicada com responsabilidade
-- Segurança, privacidade e rastreabilidade
+- Direito Digital e crimes cibernéticos
+- Segurança da informação
+- Privacidade e proteção de dados
+- Provas e investigações digitais
+- Responsabilidade civil no ambiente digital
+- Governança, riscos e conformidade
 
-## Tecnologias
+## Princípios
 
-![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
-![Next.js](https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
+```text
+LEGALIDADE  → toda atuação precisa de fundamento
+SEGURANÇA   → prevenir é melhor do que remediar
+PRIVACIDADE → dados exigem contexto, cuidado e finalidade
+EVIDÊNCIA   → conclusões precisam ser demonstráveis
+ÉTICA       → capacidade técnica não substitui responsabilidade
+```
 
-## Como trabalho
+## Em construção
 
-- Começo pelo problema e pelo impacto esperado.
-- Documento decisões, limitações e evidências de validação.
-- Prefiro soluções simples, modulares e fáceis de manter.
-- Trato privacidade e segurança como requisitos do produto.
+Este perfil reunirá estudos, ferramentas e projetos autorais sobre **Direito e Segurança Digital**, sempre com documentação, escopo legítimo e preocupação com o uso responsável da tecnologia.
 
-## Construindo em público
+<div align="center">
 
-Estou preparando projetos públicos sobre tecnologia jurídica, automação e análise de dados. Cada repositório terá contexto, demonstração, instruções de uso e decisões técnicas — não apenas código isolado.
+### Direito para compreender. Segurança para proteger.
 
----
-
-Aberto a conversas sobre **Direito + Tecnologia**, produtos digitais, automação e IA aplicada.
+</div>
