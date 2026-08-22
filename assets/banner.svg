@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Neto — Direito e Segurança Digital</title>
+  <desc id="desc">Banner escuro animado com o nome Neto e as áreas Direito e Segurança Digital.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f" />
+      <stop offset="0.5" stop-color="#0b1729" />
+      <stop offset="1" stop-color="#07111f" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#29d3c2" />
+      <stop offset="0.5" stop-color="#5ea7ff" />
+      <stop offset="1" stop-color="#29d3c2" />
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#4d7097" stroke-width="1" opacity="0.12" />
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#background)" />
+  <rect width="1200" height="300" rx="22" fill="url(#grid)" />
+
+  <circle cx="105" cy="60" r="3" fill="#29d3c2">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="2.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1090" cy="230" r="4" fill="#5ea7ff">
+    <animate attributeName="opacity" values="1;0.15;1" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <path d="M70 235 H270 M930 65 H1130" stroke="url(#accent)" stroke-width="2" opacity="0.5">
+    <animate attributeName="stroke-dasharray" values="0 200;200 0;0 200" dur="5s" repeatCount="indefinite" />
+  </path>
+
+  <text x="600" y="122" text-anchor="middle" fill="#f5f8fc" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="8">NETO</text>
+  <rect x="397" y="145" width="406" height="3" rx="2" fill="url(#accent)" filter="url(#glow)">
+    <animate attributeName="width" values="70;406;70" attributeType="XML" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="x" values="565;397;565" attributeType="XML" dur="4s" repeatCount="indefinite" />
+  </rect>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="600" letter-spacing="4" text-anchor="middle">
+    <text x="600" y="202" fill="#29d3c2">
+      DIREITO DIGITAL
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="6s" repeatCount="indefinite" />
+    </text>
+    <text x="600" y="202" fill="#5ea7ff" opacity="0">
+      SEGURANÇA DIGITAL
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4;0.5;0.9;1" dur="6s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <text x="600" y="248" text-anchor="middle" fill="#9fb4cc" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3">LEGALIDADE · PRIVACIDADE · EVIDÊNCIA · PROTEÇÃO</text>
+
+  <rect x="1" y="1" width="1198" height="298" rx="21" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.55" />
+</svg>
