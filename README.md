@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Neto — Direito e Segurança Digital" />
+  <img src="./assets/banner-cyberlaw.png" width="100%" alt="Neto — Direito Digital, Segurança Ofensiva e Direito Ambiental" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=20C20E&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=root%40neto%3A~%24+whoami;Direito+Digital;Seguran%C3%A7a+Ofensiva;Direito+Ambiental" alt="Terminal animado com as áreas de atuação" />
 </div>
 
 <br />
