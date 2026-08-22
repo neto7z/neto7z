@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 222 1774 443" role="img" aria-labelledby="title desc">
+  <title id="title">Neto — Direito Digital, Segurança Ofensiva e Direito Ambiental</title>
+  <desc id="desc">Banner animado em estética de thriller hacker, com scanlines, interferência e glitch.</desc>
+
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#20c20e" stop-opacity="0" />
+      <stop offset="0.45" stop-color="#20c20e" stop-opacity="0.08" />
+      <stop offset="0.5" stop-color="#b8ffb0" stop-opacity="0.32" />
+      <stop offset="0.55" stop-color="#20c20e" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#20c20e" stop-opacity="0" />
+    </linearGradient>
+
+    <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.14" />
+    </pattern>
+
+    <clipPath id="slice1"><rect x="0" y="270" width="1774" height="22" /></clipPath>
+    <clipPath id="slice2"><rect x="0" y="390" width="1774" height="14" /></clipPath>
+    <clipPath id="slice3"><rect x="0" y="515" width="1774" height="30" /></clipPath>
+    <clipPath id="slice4"><rect x="0" y="640" width="1774" height="11" /></clipPath>
+
+    <filter id="redShift">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" />
+    </filter>
+    <filter id="cyanShift">
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" />
+    </filter>
+
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0" />
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55" />
+    </radialGradient>
+  </defs>
+
+  <g>
+    <animate attributeName="opacity" values="1;0.98;1;1;0.96;1" keyTimes="0;0.08;0.11;0.72;0.74;1" dur="7s" repeatCount="indefinite" />
+    <image width="1774" height="887" href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" xlink:href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" preserveAspectRatio="xMidYMid slice" />
+  </g>
+
+  <g opacity="0" filter="url(#redShift)" style="mix-blend-mode:screen">
+    <image width="1774" height="887" href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" xlink:href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" clip-path="url(#slice1)" />
+    <image width="1774" height="887" href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" xlink:href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" clip-path="url(#slice3)" />
+    <animate attributeName="opacity" values="0;0;0.7;0;0;0.45;0;0" keyTimes="0;0.18;0.185;0.20;0.67;0.675;0.69;1" dur="8s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;18 0;-10 0;0 0" keyTimes="0;0.18;0.185;0.20;1" dur="8s" repeatCount="indefinite" />
+  </g>
+
+  <g opacity="0" filter="url(#cyanShift)" style="mix-blend-mode:screen">
+    <image width="1774" height="887" href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" xlink:href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" clip-path="url(#slice2)" />
+    <image width="1774" height="887" href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" xlink:href="https://raw.githubusercontent.com/neto7z/neto7z/master/assets/banner-cyberlaw.png" clip-path="url(#slice4)" />
+    <animate attributeName="opacity" values="0;0;0.65;0;0;0.4;0;0" keyTimes="0;0.29;0.295;0.31;0.82;0.825;0.84;1" dur="6.5s" repeatCount="indefinite" />
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;-16 0;9 0;0 0" keyTimes="0;0.29;0.295;0.31;1" dur="6.5s" repeatCount="indefinite" />
+  </g>
+
+  <rect x="0" y="180" width="1774" height="90" fill="url(#scan)" opacity="0.7">
+    <animate attributeName="y" from="180" to="665" dur="4.8s" repeatCount="indefinite" />
+  </rect>
+
+  <rect width="1774" height="887" fill="url(#lines)" opacity="0.5" />
+  <rect width="1774" height="887" fill="url(#vignette)" />
+
+  <g font-family="monospace" font-size="18" fill="#20c20e">
+    <text x="42" y="256" opacity="0.7">root@neto:~# profile --secure</text>
+    <rect x="349" y="240" width="11" height="20" fill="#20c20e">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.48;0.5;1" dur="1s" repeatCount="indefinite" />
+    </rect>
+    <text x="1732" y="256" text-anchor="end" opacity="0.58">[ ENCRYPTED // ONLINE ]</text>
+  </g>
+
+  <rect x="1.5" y="223.5" width="1771" height="440" fill="none" stroke="#20c20e" stroke-opacity="0.18" stroke-width="3">
+    <animate attributeName="stroke-opacity" values="0.12;0.3;0.12" dur="5s" repeatCount="indefinite" />
+  </rect>
+</svg>
