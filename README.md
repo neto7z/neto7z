@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-neto-split.gif" width="85%" alt="NETO — NE digital com glitch e TO ambiental com animação orgânica" />
+  <img src="./assets/banner-neto-wallpaper-v2.gif" width="85%" alt="NETO — NE digital em azul e violeta com glitch; TO ambiental com folhas e luz em movimento" />
 </div>
 
 <br />
