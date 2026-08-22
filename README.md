@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner-animated.gif" width="85%" alt="Banner animado — Neto, Direito Digital, Segurança Ofensiva e Direito Ambiental" />
+  <img src="./assets/banner-neto-split.gif" width="85%" alt="NETO — NE digital com glitch e TO ambiental com animação orgânica" />
 </div>
 
 <br />
