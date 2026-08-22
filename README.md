@@ -25,6 +25,13 @@ Meu foco está em compreender como a lei responde a incidentes de segurança, pr
 - Direito Ambiental e responsabilidade por danos ambientais
 - Governança, riscos e conformidade
 
+## `./learning`
+
+- **Web Hacking na Prática 2.0** — Crowsec · 65h · 2022
+- **Fundamentos de Ethical Hacking: curso prático** — [Udemy](https://www.udemy.com/certificate/UC-b8de47a8-dd12-4e1b-a39b-4f311b738d14/) · 25,5h · 2020
+- **Introdução ao Hacking e Pentest** — [Solyd Offensive Security](https://solyd.com.br/verificar/RpwzzbpO5r/) · 7h · 2020
+- **Cyber Security Foundation Professional Certificate (CSFPC)** — CertiProf · obtida em 2020 · credencial expirada em 2022
+
 ## `./manifest`
 
 ```text
